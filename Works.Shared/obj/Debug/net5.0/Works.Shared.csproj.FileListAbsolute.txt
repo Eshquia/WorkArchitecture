@@ -1,0 +1,15 @@
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\bin\Debug\net5.0\Works.Shared.deps.json
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\bin\Debug\net5.0\Works.Shared.dll
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\bin\Debug\net5.0\ref\Works.Shared.dll
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\bin\Debug\net5.0\Works.Shared.pdb
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\Works.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\Works.Shared.AssemblyInfoInputs.cache
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\Works.Shared.AssemblyInfo.cs
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\Works.Shared.csproj.CoreCompileInputs.cache
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\Works.Shared.dll
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\ref\Works.Shared.dll
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\Works.Shared.pdb
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\bin\Debug\net5.0\Works.Shared.runtimeconfig.json
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\bin\Debug\net5.0\Works.Shared.runtimeconfig.dev.json
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\Works.Shared.genruntimeconfig.cache
+C:\Users\byass.000\Desktop\Project\WorksProject\Works\Works.Shared\obj\Debug\net5.0\Works.Shared.csproj.AssemblyReference.cache
